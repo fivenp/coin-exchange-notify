@@ -1,0 +1,24 @@
+{
+    "loglevel":"debug",
+    "mail":{
+        "active":true,
+        "from":"my@email",
+        "to":"your@email",
+        "smtp":{
+            "host":"smtp.server",
+            "port":"465",
+            "secure":true,
+            "auth":{
+                "___comment":"pass is ENCRYPTED via encrypt function in the index.js line 40!",
+                "user":"smtpuser",
+                "pass":"smtppass"
+            }
+        }
+    },
+    "watchlist":[
+        "TOKEN NAME",
+        "or Token Sign - e.g.",
+        "Ethereum",
+        "ETH"
+    ]
+}

@@ -1,0 +1,13 @@
+.DS_Store
+.eslintcache
+.nyc_output
+.yarncache
+config.comments.json
+config.json
+db.json
+db.watchlist.json
+npm-debug.log
+selenium-debug.log
+yarn-error.log
+/node_modules
+package-lock.json

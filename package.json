@@ -1,0 +1,17 @@
+{
+  "name": "scrape-on-change",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com",
+  "author": "fivenp <mh@fivenp.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "0.17.0",
+    "cheerio": "1.0.0-rc.2",
+    "lowdb": "^1.0.0",
+    "nodemailer": "^4.3.1",
+    "winston": "^2.4.0"
+  },
+  "scripts": {},
+  "devDependencies": {}
+}
